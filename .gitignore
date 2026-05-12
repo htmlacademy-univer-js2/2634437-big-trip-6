@@ -13,3 +13,4 @@ node_modules/
 build/
 
 # Собранные файлы (допишите самостоятельно)
+technical_specification.md
